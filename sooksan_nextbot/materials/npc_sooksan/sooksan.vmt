@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_sooksan/sooksan"
+	"$alphatest" 1
+}
